@@ -1,41 +1,24 @@
 # a710160074.github.io
 a710160074.github.io
 <html>
+	<head>
+		<title>BIODATA AZIZ</title>
+	</head>
+	<body background="A710160074.jpg">
+		<h1><div STYLE="BACKGROUND: blue"><p align="center"><font face="Gabriola" size="6" color="darkred">
+		<b> SELAMAT DATANG DI BIODATAKU </br> </font></p></div></h1>
 
-<head>
- <title>BIODATAKU</title>
-
-<body>
- <center>
- <font size="25px">
- BIODATAKU
- </font>
- </center>
- 
- <table>
- <tr>
- <td>Nama :</td>
- <td>Kevin Moses Kenap</td>
- </tr>
- <tr>
- <td>Tempat/Tanggal Lahir :</td>
- <td>Jakarta, 18 Desember 1994</td>
- </tr>
- <tr>
- <td>Alamat :</td>
- <td>Jalan Menuju surgawi no.10, UnNamed Place</td>
- </tr>
- <tr>
- <td>Hobby :</td>
- <td>Basket, Blogging, Olahraga, DotA</td>
- </tr>
- <tr>
- <td>Pendidikan Terakhir :</td>
- <td>SMKN 1 Jakarta Pusat</td>
- </tr>
- <tr>
-
-</body>
-</head>
+		<h2><p align="center"><div STYLE="BACKGROUND: "><p align="center"><img src="1.jpg" height="150" width="160" /></p></h2>
+		<p align="center"><div STYLE="BACKGROUND: red"><p align="center"><font face="Gabriola" size="4" color="blue">
+		Nama 		: Dwi Nurokhman A <br>
+		Tempat Lahir	: Awal Terusan <br>
+		Tanggal Lahir	: 24 Juli 1998 <br> 
+		Alamat		: Dusun IV Awal Tersan, sirahpulau padang, ogan komering ilir<br>
+		Hobi		: traveler <br>
+		Motto		: jangan menyerah hanya dengan satu kegagalan<br>
+		Email		: Nurokhmanaziz1998@gmail.com<br>
+		Instagram	: Nurokhmanaziz98
+	</body>
+</html>
 
 </html>
