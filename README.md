@@ -1,24 +1,26 @@
 # a710160074.github.io
 a710160074.github.io
-<html>
-	<head>
-		<title>BIODATA AZIZ</title>
-	</head>
-	<body background="A710160074.jpg">
-		<h1><div STYLE="BACKGROUND: blue"><p align="center"><font face="Gabriola" size="6" color="darkred">
-		<b> SELAMAT DATANG DI BIODATAKU </br> </font></p></div></h1>
-
-		<h2><p align="center"><div STYLE="BACKGROUND: "><p align="center"><img src="1.jpg" height="150" width="160" /></p></h2>
-		<p align="center"><div STYLE="BACKGROUND: red"><p align="center"><font face="Gabriola" size="4" color="blue">
-		Nama 		: Dwi Nurokhman A <br>
-		Tempat Lahir	: Awal Terusan <br>
-		Tanggal Lahir	: 24 Juli 1998 <br> 
-		Alamat		: Dusun IV Awal Tersan, sirahpulau padang, ogan komering ilir<br>
-		Hobi		: traveler <br>
-		Motto		: jangan menyerah hanya dengan satu kegagalan<br>
-		Email		: Nurokhmanaziz1998@gmail.com<br>
-		Instagram	: Nurokhmanaziz98
-	</body>
-</html>
-
-</html>
+ <html>
+ <head>
+ <title>BIODATA</title>
+ </head>
+ <body>
+ <form action="#" style="width: 1000px"class="posisi";>
+ <fieldset class="h"/>
+ <table style="width: 980px;">
+ <hr /><hr /><font color=silver><marquee loop="5"><font face="Arial"><font size="5"><b>Biodata Mahasiswa<br />Universitas Muhammaddiyah Surakarta</b></font></font></marquee>
+ <center><font color=blue><font face="times new romen"><font size="6">Pendidikan Teknik Informatika</font></font></center>
+ <hr /><hr /><tr><td><font color=green><b><p><h3><li>Nama Lengkap : <font color=gold>Dwi Nurokhman Aziz</h3></p></b></td></tr></h1>
+ <tr><td><font color=green><b><p><h4><li>Nama Panggilan : <font color=gold>Aziz</h4></p></b></td></tr>
+ <tr><td><font color=green><b><p><h4><li>Tempat, Tanggal Lahir : <font color=gold>Awal Terusan, 24 Juli 1998</h4></p></b></td></tr>
+ <tr><td><font color=green><b><p><h3><li>Umur : <font color=gold>19 Tahun</h3></p></b></td></tr>
+ <tr><td><font color=green><b><p><h4><li>Jenis Kelamin : <font color=gold>Laki - Laki</h4></p></b></td></tr>
+ <tr><td><font color=green><b><p><h3><li>Gol. Darah : <font color=gold>AB</h3></p></b></td></tr>
+ <tr><td><font color=green><b><p><h4><li>Agama : <font color=gold>Islam</h4></p></b></td></tr>
+ <tr><td><font color=green><b><p><h4><li>Alamat : <font color=gold>Gatak RW02/RW02 PABELAN, KARTASURA, SUKOHARJO</h4></p></b></td></tr>
+ <tr><td><font color=green><b><p><h3><li>Pekerjaan : <font color=gold>Mahasiswa</h3></p></b></td></tr>
+ <tr><td><font color=green><b><p><h2><li>Hobby : <font color=gold>Basket</h2></p></b></td></tr>
+ </table>
+ </form>
+ </body>
+ </html>
